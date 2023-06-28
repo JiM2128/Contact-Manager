@@ -1,5 +1,3 @@
-// Contact Manager program, VU, Team: Ctrl+Alt+Defeat, version 3.0, 2023 June 23
-
 public class Main {
     
     public static void main(String[] args) {
